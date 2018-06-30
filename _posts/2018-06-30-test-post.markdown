@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "This is a test"
+date:   2018-06-30 11:00:28 -0600
+categories: jekyll update
+---
+This is a sample post straight from github.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-
+
+Go [Home][jekyll-home].
+
+[jekyll-home]: https://tristanschorn.github.io/home
